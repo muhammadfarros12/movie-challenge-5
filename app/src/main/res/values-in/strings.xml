@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">movie-shallenge-5</string>
+
+    <string name="username">Selamat Datang, %1$s !</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="ringkasan">Ringkasan</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="daftar_disini"> Daftar Disini</string>
+    <string name="profile">Profile</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="alamat_pengguna">Alamat Pengguna</string>
+</resources>

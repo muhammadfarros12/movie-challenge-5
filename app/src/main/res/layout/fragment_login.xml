@@ -102,13 +102,13 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Belum Punya Akun?" />
+            android:text="@string/belum_punya_akun" />
 
         <TextView
             android:id="@+id/txtRegister"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=" Daftar Disini"
+            android:text="@string/daftar_disini"
             android:textColor="@color/black" />
 
     </LinearLayout>
